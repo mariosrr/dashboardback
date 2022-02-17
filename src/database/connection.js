@@ -1,11 +1,11 @@
 import sql from "mssql";
 
 const dbSettings = {
-    user: 'masterWisdomFwd',
-    password: 'zSJmrxr4e7YF6zfw3s9vwwySwb2Ex8M6',
-    server: 'wisdom.op-cloud.net',
-    database: 'aduana',
-    port: 23688,
+    user: '',
+    password: '',
+    server: '',
+    database: '',
+    port: ,
     trustServerCertificate: true
 };
 
